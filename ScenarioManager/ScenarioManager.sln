@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScenarioManager", "ScenarioManager\ScenarioManager.csproj", "{4971A0C3-4D76-422C-ADF5-B8E646EA130F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4971A0C3-4D76-422C-ADF5-B8E646EA130F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4971A0C3-4D76-422C-ADF5-B8E646EA130F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4971A0C3-4D76-422C-ADF5-B8E646EA130F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4971A0C3-4D76-422C-ADF5-B8E646EA130F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7578E796-5E8B-4338-B048-A1756A30E232}
+	EndGlobalSection
+EndGlobal
