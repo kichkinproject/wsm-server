@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace ScenarioManager.Model.DBModel
 {
-    public class LogInModel
+    public class TokenGuid
     {
         [Required]
+        [Key]
         public string Login { get; set; }
-
-
+        public Guid Guid { get; set; }
     }
 }

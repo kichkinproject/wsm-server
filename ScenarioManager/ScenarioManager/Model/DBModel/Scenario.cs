@@ -21,9 +21,6 @@ namespace ScenarioManager.Model.DBModel
         [Required]
         public string Text { get; set; }
 
-        public long? AuthorId { get; set; }
-        [ForeignKey("AuthorId")]
-        public User Author { get; set; }
 
         [Required]
         public long UserGroupId { get; set; }
